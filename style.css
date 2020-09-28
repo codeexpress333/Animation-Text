@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2c2c2c;
+  color: #fff;
+}
+
+.text {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+  
+.text .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
